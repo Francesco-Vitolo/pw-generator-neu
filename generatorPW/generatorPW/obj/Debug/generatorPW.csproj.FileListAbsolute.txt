@@ -1,0 +1,15 @@
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\bin\Debug\generatorPW.exe.config
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\bin\Debug\generatorPW.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\bin\Debug\generatorPW.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\App.g.cs
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW_MarkupCompile.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW_MarkupCompile.lref
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\MainWindow.baml
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.g.resources
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.Properties.Resources.resources
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\generatorPW\generatorPW\obj\Debug\generatorPW.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<Window x:Class="generatorPW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:generatorPW"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+
+            <Button Height="50" Width="150" Click="Button_Click" Content="Generate"/>
+            <TextBlock x:Name="tb_pw" HorizontalAlignment="Center" Text="{Binding }"/>
+            <TextBlock x:Name="tb_length" Margin="50" Text="{Binding }"/>
+            <Slider x:Name="slider" TickPlacement="BottomRight" TickFrequency="2" Maximum="100" Value="0" IsSnapToTickEnabled="True" Margin="50" ValueChanged="slider_ValueChanged" VerticalAlignment="Bottom"/>
+        </StackPanel>
+    </Grid>
+</Window>
